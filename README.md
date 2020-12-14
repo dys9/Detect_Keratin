@@ -1,1 +1,1 @@
-# DiagScalp
+# Detection keratin in the scalp
